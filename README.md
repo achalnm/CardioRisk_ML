@@ -57,8 +57,8 @@ The project workflow included:
 | Name | Role | Key Responsibilities | Gmail ID |
 |------|------|---------------------|----------|
 | Achal Nanjundamurthy | Model Building, Cross-validation, Research | Implemented and trained models, performed cross-validation and hyperparameter tuning, produced final metrics and plots | achalnm02@gmail.com |
-| Khushi Bijkal | Pre-processing, Visualization, Reporting | Handled data preprocessing, exploratory data analysis (EDA) visualizations, interpreted results, and finalized the report | khushi.bijkal@mail.dcu.ie |
-| Suman Neupane | Model Building, Error Analysis, Research | Supported model building, performed error and metric analysis, gathered related research papers and references | suman.neupane2@mail.dcu.ie |
-| Durga Prasad Narsing | Analysis, Reporting | Provided statistical and ethical/legal write-up, helped interpret results and compile the final report | durga.prasad.narsing@mail.dcu.ie |
+| Khushi Bijkal | Pre-processing, Visualization, Reporting | Handled data preprocessing, exploratory data analysis (EDA) visualizations, interpreted results, and finalized the report | khushi.n.bijkal@gmail.com |
+| Suman Neupane | Model Building, Error Analysis, Research | Supported model building, performed error and metric analysis, gathered related research papers and references | sumanneupane99@gmail.com |
+| Durga Prasad Narsing | Analysis, Reporting | Provided statistical and ethical/legal write-up, helped interpret results and compile the final report | durgaprasadnarsing1728@gmail.com |
 
 
