@@ -9,7 +9,7 @@
 Cardiovascular disease is one of the leading causes of death worldwide. Early prediction of risk can guide timely interventions. This project focuses on the **cardio_train dataset** containing 70,000 anonymized patient records and builds machine learning models to predict cardiovascular disease status, where:
 
 - `0` indicates healthy  
-- `1` indicates the presence of cardiovascular disease  
+- `1` indicates the presence of a cardiovascular disease  
 
 The project workflow included:  
 
@@ -40,7 +40,7 @@ The project workflow included:
    - Feature importance ranked top predictors as BMI, systolic and diastolic blood pressure, age, height, and weight  
 
 4. **Insights**  
-   - Boosting models outperformed simpler approaches, with XGBoost (GPU) offering best performance and efficiency  
+   - Boosting models outperformed simpler approaches, with XGBoost (using GPU) offering best performance and efficiency  
    - Feature importance aligns with known clinical risk factors, confirming model learned meaningful patterns  
    - The model generalizes well, with consistent cross-validation results (mean CV F1 ≈ 0.721, SD ≈ 0.006)  
 
