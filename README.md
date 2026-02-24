@@ -1,6 +1,6 @@
 # Predicting Cardiovascular Disease Using Machine Learning
 
-**CardioDisease_Prediction** is a machine learning project aimed at predicting cardiovascular disease (CVD) risk using the publicly available cardio_train dataset. This project was completed as part of the **Foundations of Statistical Analysis & Machine Learning (12208) CSC1181** course project by **Team 52**.
+**CardioDisease_Prediction** is a machine learning project aimed at predicting cardiovascular disease (CVD) risk using the publicly available cardio_train dataset. This project was completed as part of the **Foundations of Statistical Analysis & Machine Learning CSC1181** course project by **Team 52**.
 
 ---
 
