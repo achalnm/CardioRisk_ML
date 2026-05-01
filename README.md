@@ -6,7 +6,7 @@
 
 ## Project Overview
 
-Cardiovascular disease is one of the leading causes of death worldwide. Early prediction of risk can guide timely interventions. This project focuses on the **cardio_train dataset** containing 70,000 anonymized patient records and builds machine learning models to predict cardiovascular disease status, where:
+Cardiovascular disease is one of the leading causes of death worldwide. Early prediction of risk can guide timely interventions. This project focuses on **cardio_train dataset** containing 70,000 anonymized patient records and builds machine learning models to predict cardiovascular disease status, where:
 
 - `0` indicates healthy  
 - `1` indicates the presence of a cardiovascular disease  
